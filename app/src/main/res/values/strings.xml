@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">点滴</string>
+    <string name="title_activity_continuous_take_picture">ContinuousTakePictureActivity</string>
+</resources>
